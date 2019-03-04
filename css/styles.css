@@ -42,7 +42,7 @@ body {
 }
 
 .rotated {
-  transform: rotate(30deg);
+  transform: rotate(45deg);
 }
 
 .navbar-brand {
