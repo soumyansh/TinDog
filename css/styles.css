@@ -172,7 +172,7 @@ body {
 
 /* Testimonial section */
 #testimonials{
-  padding: 5% 15%;
+
   text-align: center;
   background-color: #ef8172;
   color: #fff;
@@ -183,7 +183,9 @@ body {
   margin: 5%;
 }
 
-
+.carousel-item{
+  padding: 5% 15%;
+}
 /* Press section */
 #press{
 text-align: center;
